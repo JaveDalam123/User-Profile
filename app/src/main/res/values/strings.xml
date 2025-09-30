@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">User-Profile</string>
+    <string name="brunopham">@name</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="user_name">Javed Alam</string>
+    <string name="value">10</string>
+    <string name="collection">Collection</string>
+    <string name="shots">shots</string>
+    <string name="CityAndCountry">Da Nang, Vietnam</string>
+</resources>
